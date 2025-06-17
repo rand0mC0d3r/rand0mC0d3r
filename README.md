@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=rand0mC0d3r&count_private=false&show_icons=true&theme=dark&include_all_commits=true&hide_border=true&hide=prs&bg_color=31313A)](https://github.com/vladmandic/vladmandic)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=rand0mC0d3r&count_private=false&show_icons=true&theme=dark&include_all_commits=true&hide_border=true&hide=prs&bg_color=31313A)](https://github.com/rand0mC0d3r/rand0mC0d3r)
 <a href="https://www.linkedin.com/in/bodudev/"><img src="linkedin.png" alt="linkedin" height="170"/></a>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rand0mC0d3r&hide=JavaScript,HTML,CSS,ipynb&layout=compact&theme=dark&hide_border=true&bg_color=31313A&langs_count=8)](https://github.com/vladmandic/vladmandic)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rand0mC0d3r&hide=JavaScript,HTML,CSS,ipynb&layout=compact&theme=dark&hide_border=true&bg_color=31313A&langs_count=8)](https://github.com/rand0mC0d3r/rand0mC0d3r)
 [![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rand0mC0d3r&theme=xcode&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
